@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+<title id="title">Southern chicken and waffles illustration</title><desc id="desc">Golden waffles topped with crispy fried chicken and maple syrup on a ceramic plate.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f9dcb0"/><stop offset="1" stop-color="#e4a479"/></linearGradient>
+  <linearGradient id="plate" x2="0" y2="1"><stop stop-color="#fffdf5"/><stop offset="1" stop-color="#e8e3d9"/></linearGradient>
+  <linearGradient id="waffle" x2="0" y2="1"><stop stop-color="#e4a951"/><stop offset="1" stop-color="#b96c30"/></linearGradient>
+  <linearGradient id="chicken" x2="0" y2="1"><stop stop-color="#d88a43"/><stop offset="1" stop-color="#8b4228"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#562a28" flood-opacity=".20"/></filter>
+  <pattern id="linen" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M0 0h26M0 0v26" stroke="#fff3de" stroke-width="1" opacity=".28"/></pattern>
+</defs>
+<rect width="800" height="600" fill="url(#bg)"/><rect width="800" height="600" fill="url(#linen)"/>
+<path d="M0 475Q200 408 400 474T800 468V600H0Z" fill="#b75f47" opacity=".18"/>
+<g filter="url(#shadow)"><ellipse cx="403" cy="329" rx="302" ry="220" fill="#e7d6c1" opacity=".6"/><ellipse cx="393" cy="314" rx="296" ry="222" fill="url(#plate)"/><ellipse cx="393" cy="314" rx="258" ry="185" fill="#f3eadb" stroke="#d1c5b8" stroke-width="4"/></g>
+<!-- Waffle with cross-hatch grid -->
+<g transform="translate(385 329) rotate(-14)"><rect x="-174" y="-124" width="348" height="258" rx="36" fill="#9d542a"/><rect x="-166" y="-135" width="330" height="250" rx="33" fill="url(#waffle)" stroke="#d38f45" stroke-width="8"/>
+<g fill="none" stroke="#a9632c" stroke-width="16" stroke-linecap="round" opacity=".95"><path d="M-101-126V105 M-33-126V105 M35-126V105 M103-126V105"/><path d="M-151-65H146 M-151 0H146 M-151 65H146"/></g><g fill="none" stroke="#ffd98e" stroke-width="5" opacity=".65"><path d="M-114-105V87 M-45-110V87 M23-110V87 M90-110V87"/></g></g>
+<!-- Crispy chicken pieces -->
+<g filter="url(#shadow)"><path d="M323 203C282 166 285 117 345 112C372 72 449 92 453 147C505 149 529 207 483 245C466 283 413 275 380 260C334 270 309 245 323 203Z" fill="url(#chicken)" stroke="#9f5a30" stroke-width="7"/>
+<path d="M399 238C418 217 445 225 466 237C501 214 540 236 538 267C570 296 550 336 508 340C475 372 421 344 417 309C393 288 383 266 399 238Z" fill="url(#chicken)" stroke="#9d5732" stroke-width="8"/></g>
+<g fill="#f5c776" opacity=".75"><circle cx="348" cy="149" r="10"/><circle cx="388" cy="126" r="9"/><circle cx="434" cy="147" r="11"/><circle cx="460" cy="199" r="7"/><circle cx="444" cy="255" r="7"/><circle cx="474" cy="281" r="10"/><circle cx="523" cy="299" r="8"/><circle cx="349" cy="224" r="7"/></g>
+<path d="M281 279C295 298 302 308 298 339C293 363 307 373 321 363C332 351 318 332 331 325C372 305 419 311 452 329" fill="none" stroke="#8f4727" stroke-width="15" stroke-linecap="round" opacity=".65"/>
+<path d="M294 284C306 298 311 315 308 330" fill="none" stroke="#e6a04a" stroke-width="7" stroke-linecap="round"/>
+<path d="M226 414Q232 402 244 409Q264 415 277 407" stroke="#6f7e51" stroke-width="11" fill="none" stroke-linecap="round"/><path d="M531 409Q546 397 558 411Q568 421 585 410" stroke="#70804d" stroke-width="11" fill="none" stroke-linecap="round"/>
+<g transform="translate(518 145) rotate(20)"><rect x="0" y="0" width="69" height="31" rx="9" fill="#f5e6a0"/><path d="M15 7Q34 0 55 9" stroke="#fff9d5" stroke-width="5" fill="none"/></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc"><title id="title">Smoked brisket and baked macaroni illustration</title><desc id="desc">Slices of barbecue brisket alongside a bowl of golden baked macaroni and cheese.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d0b68d"/><stop offset="1" stop-color="#8d533e"/></linearGradient><linearGradient id="board" x2="0" y2="1"><stop stop-color="#c78e57"/><stop offset="1" stop-color="#97613e"/></linearGradient><linearGradient id="meat" x2="0" y2="1"><stop stop-color="#82432e"/><stop offset="1" stop-color="#382321"/></linearGradient><linearGradient id="cheese" x2="0" y2="1"><stop stop-color="#f8cc69"/><stop offset="1" stop-color="#d28b39"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="16" flood-opacity=".28"/></filter></defs>
+<rect width="800" height="600" fill="url(#bg)"/><g stroke="#fff5dc" stroke-width="3" opacity=".13"><path d="M20 0V600 M95 0V600 M170 0V600 M245 0V600 M320 0V600 M395 0V600 M470 0V600 M545 0V600 M620 0V600 M695 0V600 M770 0V600"/></g>
+<g filter="url(#shadow)"><rect x="80" y="143" width="650" height="359" rx="43" fill="#6f402d" transform="rotate(-4 400 320)"/><rect x="88" y="132" width="630" height="347" rx="36" fill="url(#board)" stroke="#d19d63" stroke-width="9" transform="rotate(-4 400 320)"/></g>
+<g transform="translate(100 45)">
+<!-- slices fanned -->
+<g stroke="#34211e" stroke-width="9" stroke-linejoin="round">
+<path d="M71 246Q51 207 96 168Q166 142 229 180Q267 201 270 248Q228 305 149 305Q92 290 71 246Z" fill="url(#meat)"/>
+<path d="M125 258Q108 218 159 188Q231 163 290 204Q321 229 314 272Q281 319 196 317Q151 300 125 258Z" fill="url(#meat)"/>
+<path d="M181 281Q164 237 213 213Q285 188 343 232Q373 260 359 302Q318 342 247 334Q201 318 181 281Z" fill="url(#meat)"/>
+<path d="M241 305Q222 270 261 242Q329 208 393 256Q422 288 400 329Q352 356 288 355Q256 339 241 305Z" fill="url(#meat)"/></g>
+<g fill="none" stroke="#c76f64" stroke-width="12" opacity=".9"><path d="M80 236Q141 168 255 246"/><path d="M140 250Q208 192 301 268"/><path d="M194 273Q264 216 348 302"/><path d="M252 300Q325 246 390 322"/></g>
+<g fill="none" stroke="#e9aa76" stroke-width="6" opacity=".62"><path d="M90 239Q142 189 229 244"/><path d="M154 251Q215 210 289 267"/><path d="M210 284Q275 239 341 301"/></g></g>
+<!-- Mac and cheese in oval bowl -->
+<g filter="url(#shadow)"><ellipse cx="564" cy="322" rx="145" ry="128" fill="#e6d7c6"/><ellipse cx="564" cy="305" rx="139" ry="115" fill="#faf1df" stroke="#d9c9b7" stroke-width="9"/><ellipse cx="564" cy="302" rx="118" ry="92" fill="url(#cheese)" stroke="#e7a94f" stroke-width="4"/></g>
+<g fill="none" stroke="#ffdf8d" stroke-width="19" stroke-linecap="round"><path d="M488 274q23-30 47 2t52-7"/><path d="M505 313q24-28 46 0t47-2"/><path d="M528 350q24-28 52-7"/><path d="M558 248q29-18 52 13"/><path d="M470 317q18 25 38 11"/><path d="M605 326q25-23 41-8"/></g><g fill="none" stroke="#bb7839" stroke-width="6" stroke-linecap="round" opacity=".55"><path d="M492 283l15 8M550 310l11 14M579 249l13 5M603 348l12-7"/></g>
+<path d="M130 450Q160 431 177 448 M203 444Q216 432 237 438 M282 445Q304 433 330 442" fill="none" stroke="#64804b" stroke-width="13" stroke-linecap="round"/>
+</svg>

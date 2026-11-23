@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc"><title id="title">Southern grilled cheeseburger illustration</title><desc id="desc">A toasted Texas-bread cheeseburger with a side of pickles on a vintage diner plate.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4c9a9"/><stop offset="1" stop-color="#c16e56"/></linearGradient><linearGradient id="bread" x2="0" y2="1"><stop stop-color="#f8cb78"/><stop offset="1" stop-color="#ce843e"/></linearGradient><linearGradient id="beef" x2="0" y2="1"><stop stop-color="#82412e"/><stop offset="1" stop-color="#3e2525"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-opacity=".25"/></filter></defs>
+<rect width="800" height="600" fill="url(#bg)"/><g opacity=".14" stroke="#fff2dd" stroke-width="8"><path d="M0 60H800 M0 140H800 M0 220H800 M0 300H800 M0 380H800 M0 460H800 M0 540H800"/></g>
+<g filter="url(#shadow)"><ellipse cx="398" cy="360" rx="313" ry="170" fill="#faf3e7"/><ellipse cx="398" cy="354" rx="275" ry="141" fill="none" stroke="#caad98" stroke-width="7"/></g>
+<!-- lower toast -->
+<g transform="translate(140 160)"><path d="M105 275Q117 244 158 249L476 278Q512 282 518 318L519 342Q500 375 463 366L135 346Q101 342 100 312Z" fill="#8d4d2e"/>
+<path d="M111 269Q121 240 161 246L466 274Q510 276 505 319Q496 348 462 344L139 325Q104 321 111 269Z" fill="url(#bread)" stroke="#b97038" stroke-width="6"/>
+<!-- greens & sauce -->
+<path d="M116 248Q151 216 193 235Q226 211 270 233Q315 211 355 234Q415 216 487 249L479 273Q450 261 426 276Q391 259 361 278Q323 257 289 277Q249 258 216 276Q164 249 129 268Z" fill="#4f7440" stroke="#2f5937" stroke-width="5"/>
+<path d="M130 246Q238 219 488 245L480 264Q310 250 125 261Z" fill="#e9b649"/>
+<!-- thick burger patty -->
+<path d="M119 208Q140 177 192 188L465 213Q504 214 512 253L496 270Q314 246 120 249Z" fill="url(#beef)" stroke="#4d2d24" stroke-width="6"/>
+<path d="M133 218Q277 223 493 248" stroke="#aa6844" stroke-width="7" stroke-dasharray="28 28" fill="none"/>
+<!-- melted cheddar -->
+<path d="M125 185L483 192L485 227L433 248L420 220L390 244L355 224L327 242L296 215L274 241L239 213L201 231L165 212L138 227Z" fill="#f9bf4d" stroke="#dc963e" stroke-width="5"/>
+<!-- tomato -->
+<path d="M130 177Q240 145 489 177L487 193Q287 169 131 196Z" fill="#d65740"/>
+<!-- top bread Texas toast -->
+<path d="M94 126Q96 87 146 75Q164 65 202 77L465 106Q514 117 521 159Q523 199 483 204L137 179Q101 178 94 145Z" fill="#9d572f"/>
+<path d="M108 129Q108 101 151 91L459 123Q508 129 503 164Q502 187 474 185L139 165Q107 162 108 129Z" fill="url(#bread)" stroke="#f9d68a" stroke-width="8"/>
+<g stroke="#a9683b" stroke-width="7" opacity=".65"><path d="M160 114L442 140M154 139L410 162"/></g></g>
+<g transform="translate(574 390) rotate(-10)"><ellipse cx="0" cy="0" rx="50" ry="21" fill="#5b813c" stroke="#e3d19b" stroke-width="6"/><ellipse cx="0" cy="0" rx="31" ry="11" fill="#a1b562"/><circle cx="-12" cy="0" r="4" fill="#f1e7b5"/><circle cx="9" cy="-3" r="4" fill="#f1e7b5"/></g>
+<g transform="translate(600 435) rotate(17)"><ellipse cx="0" cy="0" rx="43" ry="18" fill="#5b813c" stroke="#e3d19b" stroke-width="5"/><ellipse cx="0" cy="0" rx="28" ry="9" fill="#a1b562"/></g></svg>
